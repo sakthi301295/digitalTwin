@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Room Digital Twin — Python/Streamlit
 
 A fully functional Digital Twin dashboard that simulates, monitors,
@@ -155,3 +156,6 @@ Light follows a half-sine sunrise/sunset curve.
 - Add machine learning anomaly detection (scikit-learn IsolationForest)
 - Export PDF report from dashboard
 - Add floor-plan 2D visualisation with Plotly shapes
+=======
+# digitalTwin
+>>>>>>> ff9c53b703ca382ba1cd37625a1381514aee7e21
