@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "digital_twin_room/app.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "digital_twin_room/app.py"
+    }
+  ]
+}
